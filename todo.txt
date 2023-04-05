@@ -1,0 +1,25 @@
+A partir de uma Estrutura Básica de HTML5, crie
+uma ou mais páginas contendo, no mínimo:
+1.Uma ou mais Imagens de primeiro plano;
+2.Vídeo e Áudio com tags de HTML5;
+3.Lista ordenada (ou não ordenada);
+4.Hyperlinks (menu de navegação);
+5.Iframe (quadro interno com conteúdo e/ou
+como ‘alvo’).
+Obs.: Usar tags semânticas (de layout: cabeçalho,
+seção, artigos, rodapé (com seus dados) e
+tags de texto: Títulos, parágrafos, estilos...).
+
+Estilize a(s) página(s) do PROF01 a partir de um
+arquivo de CSS externo:
+1. Estilize a aparência geral dos elementos:
+Box: Margens internas e externas, tamanho,
+background, posicionamento, bordas...);
+Demais elementos: Alinhamento, estilos, cores...
+2. Importe uma nova fonte para o(s) texto(s);
+3. Inclua um efeito de transição ao passar com o
+ponteiro do mouse sobre os links do Menu;
+4. Trave o Menu de navegação ao chegar no ‘topo’
+da janela.
+5. Crie página(s) responsiva(s) para, no mínimo,
+Mobile e Desktop (@media/flexbox/Grid...).
